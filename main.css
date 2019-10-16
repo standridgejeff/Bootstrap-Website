@@ -14,8 +14,14 @@
 #topSection {
     background: url(matt-howard-A4iL43vunlY-unsplash.jpg);
     background-size: cover;
+    margin-bottom: 0;
 }
 
 .credit {
     color: floralwhite;
+}
+
+.pics {
+    padding: 0 !important;
+    margin: 0 !important;
 }
