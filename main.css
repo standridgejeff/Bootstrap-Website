@@ -1,4 +1,21 @@
 #header {
     text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: darkblue;
 }
 
+#jumboSubHeading {
+    font-style: italic;
+    font-weight: bold;
+    color: yellow
+}
+
+#topSection {
+    background: url(matt-howard-A4iL43vunlY-unsplash.jpg);
+    background-size: cover;
+}
+
+.credit {
+    color: floralwhite;
+}
