@@ -1,3 +1,11 @@
+#codeicon {
+    max-height: 20%;
+    min-height: 20%;
+    max-width: 15%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 #header {
     text-align: center;
     font-weight: bold;
@@ -8,13 +16,15 @@
 #jumboSubHeading {
     font-style: italic;
     font-weight: bold;
-    color: yellow
+    color: yellow;
 }
 
 #topSection {
     background: url(matt-howard-A4iL43vunlY-unsplash.jpg);
     background-size: cover;
     margin-bottom: 0;
+    border-bottom-width: thick;
+    border-bottom-color: cadetblue;
 }
 
 .credit {
@@ -22,6 +32,17 @@
 }
 
 .pics {
-    padding: 0 !important;
-    margin: 0 !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+#picWidth {
+    border-style: solid;
+    border-top-width: thick;
+    min-width: 100%;
+}
+
+.picsBack{
+    border-right-width: thick;
+    border-left-width: thick;
 }
